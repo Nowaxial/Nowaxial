@@ -48,9 +48,9 @@
 </table>
 
 ## 🎓 Certifications
-- **🎖️ Lexicon: .NET Fullstack Developer** (2025) [Diploma][file:18]
-- **📜 Jensen YH: Frontend w/ Web Security** (2023, 400 YH) [Diploma][file:1]
-- **🔥 Microsoft Azure AI-900 Fundamentals** (2025)[file:36]
+- **🎖️ Lexicon: .NET Fullstack Developer** (2025)
+- **📜 Jensen YH: Frontend w/ Web Security** (2023, 400 YH)
+- **🔥 Microsoft Azure AI-900 Fundamentals** (2025)
 
 ## 💼 Experience (Newest First)
 
