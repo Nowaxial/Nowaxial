@@ -1,75 +1,89 @@
-<h1 align="center">Who am I?</h1>
-<h3 align="center">I'm Maria Toledo, a passionate junior frontend developer living in Gothenburg, Sweden</h3>
+<h1 align="center">👩‍💻 Maria Toledo</h1>
 
+<h3 align="center">Fullstack Developer | .NET Certified | React | Web Security | Gothenburg, Sweden</h3>
+
+<p align="center">
+  <em>Certified .NET Fullstack Developer (Lexicon 2025, AI-900) with YH Frontend Diploma (Jensen 2023). From customer service to secure web apps. Open for Junior/Mid-level roles!</em>
+</p>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/mariatoledosilva1980/" >
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="25" alt="linkedin logo"  />
+  <a href="https://www.linkedin.com/in/mariatoledosilva/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30" />
   </a>
-  <a href="mailto:maria.toledo.silva@outlook.com" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label&color=0078D4&logoColor=white&labelColor=&style=flat" height="25" alt="microsoft-outlook logo">
+  <a href="mailto:maria.toledo.silva@outlook.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" />
   </a>
-    <a href="https://lookup.guru/880779269301760030" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=flat" height="25" alt="discord logo"  />
+  <a href="https://usersniff.vercel.app/users/880779269301760030/profile">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" height="30" />
   </a>
 </div>
 
-###
-
-
-
-
-
-# Languages and Tools:
+## 🛠️ Technologies
 
 <table>
 <tr>
-<td valign="top" width="33%">
-<h3 align="center">Frontend</h3>
-<img src="https://img.shields.io/badge/Javascript-F7DF1E?logo=javascript&logoColor=black&style=flat" height="25" alt="javascript logo"  />
-<img src="https://img.shields.io/badge/Typescript-3178C6?logo=typescript&logoColor=white&style=flat" height="25" alt="typescript logo"  />
-<img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=flat" height="25" alt="css3 logo"  />
-<img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=flat" height="25" alt="react logo"  />
-<img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=flat" height="25" alt="html5 logo"  />
-<img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=flat" height="25" alt="bootstrap logo"  />
-<img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=flat" height="25" alt="nextjs logo"  />
-<img src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white&style=flat" height="25" alt="vite logo"  />
-<img src="https://img.shields.io/badge/Ant%20Design-1890FF?style=flate&logo=antdesign&logoColor=white" height="25" alt="ant_design logo" />
-<img src="https://img.shields.io/badge/VSCode-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white" height="25" alt="vscode logo"/> 
-<img src="https://img.shields.io/badge/Mantine-white.svg?logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGZpbGw9Im5vbmUiIHZpZXdCb3g9IjAgMCAxNjMgMTYzIj48cGF0aCBmaWxsPSIjMzM5QUYwIiBkPSJNMTYyLjE2MiA4MS41YzAtNDUuMDExLTM2LjMwMS04MS41LTgxLjA4LTgxLjVDMzYuMzAxIDAgMCAzNi40ODkgMCA4MS41IDAgMTI2LjUxIDM2LjMwMSAxNjMgODEuMDgxIDE2M3M4MS4wODEtMzYuNDkgODEuMDgxLTgxLjV6Ii8+PHBhdGggZmlsbD0iI2ZmZiIgZD0iTTY1Ljk4MyA0My4wNDlhNi4yMzQgNi4yMzQgMCAwMC0uMzM2IDYuODg0IDYuMTQgNi4xNCAwIDAwMS42MTggMS43ODZjOS40NDQgNy4wMzYgMTQuODY2IDE3Ljc5NCAxNC44NjYgMjkuNTIgMCAxMS43MjYtNS40MjIgMjIuNDg0LTE0Ljg2NiAyOS41MmE2LjE0NSA2LjE0NSAwIDAwLTEuNjE2IDEuNzg2IDYuMjEgNi4yMSAwIDAwLS42OTQgNC42OTMgNi4yMSA2LjIxIDAgMDAxLjAyOCAyLjE4NiA2LjE1MSA2LjE1MSAwIDAwNi40NTcgMi4zMTkgNi4xNTQgNi4xNTQgMCAwMDIuMTc3LTEuMDM1IDUwLjA4MyA1MC4wODMgMCAwMDcuOTQ3LTcuMzloMTcuNDkzYzMuNDA2IDAgNi4xNzQtMi43NzIgNi4xNzQtNi4xOTRzLTIuNzYyLTYuMTk0LTYuMTc0LTYuMTk0aC05LjY1NWE0OS4xNjUgNDkuMTY1IDAgMDA0LjA3MS0xOS42OSA0OS4xNjcgNDkuMTY3IDAgMDAtNC4wNy0xOS42OTJoOS42NmMzLjQwNiAwIDYuMTczLTIuNzcxIDYuMTczLTYuMTk0IDAtMy40MjItMi43NjItNi4xOTMtNi4xNzMtNi4xOTNIODIuNTc0YTUwLjExMiA1MC4xMTIgMCAwMC03Ljk1Mi03LjM5NyA2LjE1IDYuMTUgMCAwMC00LjU3OC0xLjE1MyA2LjE4OSA2LjE4OSAwIDAwLTQuMDU1IDIuNDM4aC0uMDA2eiIvPjxwYXRoIGZpbGw9IiNmZmYiIGZpbGwtcnVsZT0iZXZlbm9kZCIgZD0iTTU2LjIzNiA3OS4zOTFhOS4zNDIgOS4zNDIgMCAwMS42MzItMy42MDggOS4yNjIgOS4yNjIgMCAwMTEuOTY3LTMuMDc3IDkuMTQzIDkuMTQzIDAgMDEyLjk5NC0yLjA2MyA5LjA2IDkuMDYgMCAwMTcuMTAzIDAgOS4xNDUgOS4xNDUgMCAwMTIuOTk1IDIuMDYzIDkuMjYyIDkuMjYyIDAgMDExLjk2NyAzLjA3NyA5LjMzOSA5LjMzOSAwIDAxLTIuMTI1IDEwLjAwMyA5LjA5NCA5LjA5NCAwIDAxLTYuMzg4IDIuNjMgOS4wOTQgOS4wOTQgMCAwMS02LjM5LTIuNjMgOS4zIDkuMyAwIDAxLTIuNzU1LTYuMzk1eiIgY2xpcC1ydWxlPSJldmVub2RkIi8+PC9zdmc+Cg==&style=flat" height="25" alt="mantine logo" />
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=Postman&logoColor=white" height="25" alt="postman logo"/>
-</td> 
-<td valign="top" width="33%">
-<div align="center">  
-<h3 align="center">Backend</h3>
-<img src="https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=white&style=flat" height="25" alt="npm logo"  />
-<img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=flat" height="25" alt="mysql logo"  />
-<img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=flat" height="25" alt="nodejs logo"  />
-<img src="https://img.shields.io/badge/Firebase-ffca28?style=flat&logo=firebase&logoColor=black" height="25" alt="firebase logo"  />
+  <td align="center" width="33%">
+    <b>Frontend</b><br>
+    <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" height="25" />
+    <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white" height="25" />
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" height="25" />
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" height="25" />
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" height="25" />
+  </td>
+  <td align="center" width="33%">
+    <b>Backend</b><br>
+    <img src="https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white" height="25" />
+    <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white" height="25" />
+    <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" height="25" />
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" height="25" />
+  </td>
+  <td align="center" width="33%">
+    <b>Tools & Cloud</b><br>
+    <img src="https://img.shields.io/badge/Azure-0078D4?style=flat&logo=azure&logoColor=white" height="25" />
+    <img src="https://img.shields.io/badge/VS_Code-0078D4?style=flat&logo=visual-studio-code&logoColor=white" height="25" />
+    <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" height="25" />
+    <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" height="25" />
+  </td>
+</tr>
+</table>
+
+## 🎓 Certifications
+- **🎖️ Lexicon: .NET Fullstack Developer** (2025) [Diploma][file:18]
+- **📜 Jensen YH: Frontend w/ Web Security** (2023, 400 YH) [Diploma][file:1]
+- **🔥 Microsoft Azure AI-900 Fundamentals** (2025)[file:36]
+
+## 💼 Experience (Newest First)
+
+
+- 2025–26    Fullstack Intern @ Partille Library (Koha OSS, JS/UI)
+- 2025       .NET Fullstack Certification (Lexicon)
+- 2023       Frontend LIA @ Swedcon18 (React e-health)
+- 2023       Bistro Service @ Biltema (logistics)
+- 2022–23    Fullstack LIA @ WebWin (PHP/Bootstrap)
+- 2016–22    Cinema employee / Technical Projectionist @ Filmstaden Malmö
+- 2015–16    Customer Service @ Samhall Malmö (IKEA/ICA/Hotell)
+- 2014–15    IT Support Technician @ VHM Malmö (hardware/network)
+- 2013–14    Web Development @ IT-Lyftet (WordPress)[^12_4]
+- 2009       Security LIA @ Micropter/QLS (Cisco firewalls)
+- 2007–09    Network Security @ Jensen (studies)
+- 2005–07    Network Admin @ NTI (studies)
+
+
+
+## 🚀 Projects
+- **Portfolio**: Astro + .NET API[https://github.com/Nowaxial/portfolio-SPA]
+- **DevShowCase**: Blazor WASM[https://github.com/Nowaxial/devshowcase-platform]
+- **LMS Lexicon**: Fullstack .NET[https://github.com/Nowaxial/Lexicon-FullStack-LMS-Grupp2]
+
+
+## 📊 GitHub Stats
+[![GitHub Stats](https://helio-github-stats.vercel.app/api?username=Nowaxial&custom_title=Built%20with%20love%20&#10084;&theme=dark&title_color=2f80ed&text_color=434d58&icon_color=4c71f2&ring_color=2f80ed&border_color=e4e2e2&hide_border=true&locale=en&border_radius=4.5&card_width=466&hide_title=false&hide_rank=false&rank_icon=default&show_icons=true&include_all_commits=false&line_height=25&text_bold=true&disable_animations=false&number_format=short&show=prs_merged_percentage)](https://github.com/Nowaxial)
+
+[![GitHub Streak](https://github-streak-stats-ruby.vercel.app/?user=Nowaxial&theme=dark&hide_border=true&border_radius=4.5&locale=pt&short_numbers=true&mode=weekly&disable_animations=false&card_width=466&card_height=194&hide_total_contributions=false&hide_current_streak=false&hide_longest_streak=false&date_format=d+F%5B%2C+Y%5D)](https://git.io/streak-stats)
+
+ 
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Nowaxial&color=green" />
+  <br><em>January 2026</em>
 </div>
-</td>
-<td valign="top" width="33%">
-<div align="center"> 
-<h3 align="center">Other</h3>
-<img src="https://img.shields.io/badge/macOS-000000?style=flat&logo=apple&logoColor=white" height="25" alt="macos logo"  />
-<img src="https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white" height="25" alt="windows logo"  />
-<img src="https://img.shields.io/badge/GitHub_Desktop-purple?style=flat&logo=github&logoColor=white" height="25" alt="github_desktop logo"  />
-<img src="https://img.shields.io/badge/VirtualBox-21416b?style=flat&logo=VirtualBox&logoColor=white" height="25" alt="virtual_box logo"  />
-</div>
-</td></tr></table> 
-
-
-<!--
-**Nowaxial/Nowaxial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
