@@ -49,16 +49,17 @@
 
 ## 🎓 Certifications
 - **🎖️ Lexicon: .NET Fullstack Developer** (2025)
-- **📜 Jensen YH: Frontend w/ Web Security** (2023, 400 YH)
 - **🔥 Microsoft Azure AI-900 Fundamentals** (2025)
+- **📜 Jensen YH: Frontend w/ Web Security** (2023, 400 YH)
+
 
 ## 💼 Experience (Newest First)
 
 
 - 2025–26    Fullstack Intern @ Partille Library (Koha OSS, JS/UI)
 - 2025       .NET Fullstack Certification (Lexicon)
-- 2023       Frontend LIA @ Swedcon18 (React e-health)
 - 2023       Bistro Service @ Biltema (logistics)
+- 2023       Frontend LIA @ Swedcon18 (React e-health)
 - 2022–23    Fullstack LIA @ WebWin (PHP/Bootstrap)
 - 2016–22    Cinema employee / Technical Projectionist @ Filmstaden Malmö
 - 2015–16    Customer Service @ Samhall Malmö (IKEA/ICA/Hotell)
