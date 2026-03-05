@@ -64,7 +64,7 @@
 - 2016–22    Cinema employee / Technical Projectionist @ Filmstaden Malmö
 - 2015–16    Customer Service @ Samhall Malmö (IKEA/ICA/Hotell)
 - 2014–15    IT Support Technician @ VHM Malmö (hardware/network)
-- 2013–14    Web Development @ IT-Lyftet (WordPress)[^12_4]
+- 2013–14    Web Development @ IT-Lyftet (WordPress)
 - 2009       Security LIA @ Micropter/QLS (Cisco firewalls)
 - 2007–09    Network Security @ Jensen (studies)
 - 2005–07    Network Admin @ NTI (studies)
@@ -72,9 +72,9 @@
 
 
 ## 🚀 Projects
-- **Portfolio**: Astro + .NET API[https://github.com/Nowaxial/portfolio-SPA]
-- **DevShowCase**: Blazor WASM[https://github.com/Nowaxial/devshowcase-platform]
-- **LMS Lexicon**: Fullstack .NET[https://github.com/Nowaxial/Lexicon-FullStack-LMS-Grupp2]
+- [**Portfolio**](https://github.com/Nowaxial/portfolio-SPA): Astro + .NET API
+- [**DevShowCase**](https://github.com/Nowaxial/devshowcase-platform): Blazor WASM
+- [**LMS Lexicon**](https://github.com/Nowaxial/Lexicon-FullStack-LMS-Grupp2): Fullstack .NET
 
 
 ## 📊 GitHub Stats
